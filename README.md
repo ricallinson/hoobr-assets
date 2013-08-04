@@ -1,4 +1,3 @@
-hoobr-assets
-============
+Hoobr-assets
 
 Asset handling module.
